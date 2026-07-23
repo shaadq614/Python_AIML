@@ -8,3 +8,4 @@
 car = ["Hello" , "My","Name","is","Shaad"]
 sis = " ".join(car)
 print(sis)
+print(sis)
